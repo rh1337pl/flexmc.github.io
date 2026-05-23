@@ -30,4 +30,4 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: dist # Tells the action to deploy the compiled dist folder
-          branch: gh-pages # Target branch for Pages
+          branch: main # Target branch for Pages
