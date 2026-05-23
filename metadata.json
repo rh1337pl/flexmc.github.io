@@ -1,0 +1,6 @@
+{
+  "name": "Flex-MC Server Network",
+  "description": "The official community website for Flex-MC.eu showing server statuses (Anarchy, SkyBlock, PvP), live coordinates, store, and leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
